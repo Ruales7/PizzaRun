@@ -1,5 +1,5 @@
 # PizzaRun
-Aplicativo mobile desenvolvido especialmente para o jogo PizzaRun, em que o usuário tem uma imersão e conectividade com o jogo.  Feito pelo Android Studio usando Java. Criado por Ruan Ruales e Danilo - 3° Jogos.
+Aplicativo mobile desenvolvido especialmente para o jogo PizzaRun, em que o usuário tem uma imersão e conectividade com o jogo.  Feito pelo Android Studio usando Java. Criado por Ruan Ruales e Danilo Henrique - 3° Jogos.
 
 TODOS OS ARQUIVOS DO PROJETO ESTÃO NO MASTER
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
