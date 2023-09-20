@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PizzaRun1</string>
+    <string name="text_tela_inicial">PizzaRunMenu</string>
+    <string name="text_categoria1">HISTÓRIA</string>
+    <string name="text_categoria2">MAPA</string>
+    <string name="text_categoria3">LOCAIS</string>
+    <string name="text_categoria4">EVENTOS</string>
+    <string name="text_categoria5">MÚSICAS</string>
+    <string name="text_categoria6">DESENVOLVEDORES</string>
+    <string name="botao_voltar1">Voltar</string>
+    <string name="text_titulo2">Mapa</string>
+    <string name="text_voltar2">Voltar</string>
+    <string name="text_titulo3">Locais</string>
+    <string name="text_locais2">Mais Locais</string>
+    <string name="text_locais3">Mais Locais</string>
+    <string name="text_voltar3">Voltar</string>
+    <string name="text_titulo4">Eventos</string>
+    <string name="text_voltar4">Voltar</string>
+    <string name="text_titulo5">Musicas</string>
+    <string name="text_web">Playlist Italiana</string>
+    <string name="botao_web2">Playlist de Funk</string>
+    <string name="botao_voltar5">Voltar</string>
+    <string name="text_titulo6">Desenvolvedores</string>
+    <string name="text_web3">Github do Ruan Ruales</string>
+    <string name="text_web4">Github do Danilo Henrique</string>
+    <string name="botao_voltar6">Voltar</string>
+</resources>
