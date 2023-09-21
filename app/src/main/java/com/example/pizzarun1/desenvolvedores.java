@@ -18,8 +18,6 @@ public class desenvolvedores extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_desenvolvedores);
         botaoWeb = (Button) findViewById(R.id.button_site);
-
-        setContentView(R.layout.activity_desenvolvedores);
         botaoWeb2 = (Button) findViewById(R.id.button_site2);
         botaoWeb.setOnClickListener(new View.OnClickListener() {
             @Override

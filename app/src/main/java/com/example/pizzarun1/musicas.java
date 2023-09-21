@@ -28,7 +28,6 @@ public class musicas extends AppCompatActivity {
             }
         });
 
-        setContentView(R.layout.activity_musicas);
         botaoWeb2 = (Button) findViewById(R.id.button_site2);
 
         botaoWeb2.setOnClickListener(new View.OnClickListener() {
