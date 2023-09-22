@@ -3,6 +3,7 @@ Aplicativo mobile desenvolvido especialmente para o jogo PizzaRun, em que o usu�
 
 TODOS OS ARQUIVOS DO PROJETO ESTÃO NO MASTER
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VIDEO DEMONSTRATIVO DA FUNCIONALIDADE DO APP: https://youtu.be/el1saGWFDmo
 
 RECOMENDAÇÃO - USAR O EMULADOR: NEXUS 6 API 34 para melhor experiência do app
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
